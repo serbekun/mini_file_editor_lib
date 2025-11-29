@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sergei/0c_program/libs/editor_lib",
+  "command": "/usr/bin/cc  -I/home/sergei/0c_program/libs/editor_lib/include  -o CMakeFiles/mini_file_editor_lib.dir/src/mini_file_editor_lib.c.o -c /home/sergei/0c_program/libs/editor_lib/src/mini_file_editor_lib.c",
+  "file": "/home/sergei/0c_program/libs/editor_lib/src/mini_file_editor_lib.c",
+  "output": "CMakeFiles/mini_file_editor_lib.dir/src/mini_file_editor_lib.c.o"
+}
+]
